@@ -7,6 +7,9 @@
 
   <p align="center">A progressive <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
 
+- **Base-Url**: http://localhost:6020/api/v1/
+- **Run_Command**: npm run start:dev
+
 ## Technologies Used
 
 - **NestJS**: A progressive Node.js framework for building efficient and scalable server-side applications.
